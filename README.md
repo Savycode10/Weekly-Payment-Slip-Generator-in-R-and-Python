@@ -1,4 +1,4 @@
-# Nexford-Assignments 
+
 # Highridge Construction Company Payment Slips
 
 ## Overview
