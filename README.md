@@ -51,4 +51,4 @@ This project automates the generation of weekly payment slips for Highridge Cons
 - The R script uses `dplyr` for efficient data handling.
 
 ## Author
-Nnamani Favour
+Dan Saviour
